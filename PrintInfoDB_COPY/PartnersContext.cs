@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using PrintInfoDB_COPY.Models;
 
 namespace PrintInfoDB_COPY;
 

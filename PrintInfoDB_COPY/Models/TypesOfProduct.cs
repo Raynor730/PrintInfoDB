@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PrintInfoDB_COPY;
+namespace PrintInfoDB_COPY.Models;
 
 public partial class TypesOfProduct
 {
